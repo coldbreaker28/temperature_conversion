@@ -1,16 +1,7 @@
 # temperature_conversion
 
-A new Flutter project.
+- Nama Saya Ansa.
+- NIM : 2131750004.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Image
+![image](https://user-images.githubusercontent.com/93690714/225220423-005a303b-be4b-4ffa-9ab0-d2bce9a68b7e.png)
