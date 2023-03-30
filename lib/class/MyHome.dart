@@ -49,8 +49,8 @@ class _MyHomeState extends State<MyHome> {
         _result = (4 / 5) * _inputUser;
       }
     });
-    listViewItem.add(_newValue.toString());
-    listViewItem.add(_result.toString());
+    listViewItem.add(_newValue + " : " + _result.toString());
+
   }
 
   @override
